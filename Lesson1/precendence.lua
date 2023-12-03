@@ -1,0 +1,9 @@
+--precendence of operators
+-- ^
+-- not  - (unary)
+-- *   /
+-- +   -
+-- ..
+-- <   >   <=  >=  ~=  ==
+-- and
+-- or
